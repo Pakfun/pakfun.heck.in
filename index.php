@@ -1,8 +1,23 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-♥ ɭʋcĸɘ sɩŋʛʜ ♥
-</title><link rel="stylesheet" type="text/css" href="http://xxx-0.ml/lucke.css" media="all,handheld"/><link rel="shortcut icon" href="">
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=a28e6fl34q"></script>
+♥Personal Bot Of Muhammad HUSNAIN♥
+</title>
+<link rel="stylesheet" type="text/css" href="msbot.css" media="all,handheld"/>
+<link rel="shortcut icon" a href="https://www.facebookbrand.com/img/fb-art.jpg">
 
+
+<script type=text/javascript>
+ var _cpp= _cpp || [];
+  _cpp['username']    = "HUSNAIN";
+  _cpp['pop_type']    = "2";
+  _cpp['onePer']    = "0";
+  _cpp['freq']        = "20";   
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src =
+var cs = document.getElementsByTagName('script')[0];
+cs.parentNode.insertBefore(hs, cs);
+})();</script>
+<!--- END OF CPX24 CODE --->
 <?php
 error_reporting(0);
 $bot=new bot();
@@ -47,7 +62,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by haxer.heck.in',
+CURLOPT_USERAGENT => 'DESCRIPTION BY MUHAMMAD HUSNAIN',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -63,7 +78,7 @@ $blue=fopen('cokis/'.$id,'w');
 fwrite($blue,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$bb);
         fclose($blue);
 
-echo'<script type="text/javascript">alert("INFO : Text robot telah dibuat")</script>';
+echo'<script type="text/javascript">alert("INFO : Your Written Comment Has Been Saved !! Good Luck !! Saleem")</script>';
 }else{
         if($z){
 if(file_exists('cokis/'.$id)){
@@ -92,7 +107,7 @@ $up=fopen('cokis/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c);
         fclose($up);
         }
-echo'<script type="text/javascript">alert("INFO : Data Anda telah ter Save, Robot berjalan otomatis")</script>';}}
+echo'<script type="text/javascript">alert("INFO : Script Comment Has Been Saved !! Good Luck !! MSaleem")</script>';}}
 }
 
 public function lOgbot($d){
@@ -142,7 +157,7 @@ if(preg_match('/on/',$if[4])){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<h3><a name="navigation-name" class="no-link"> Welcome '.$nm.'</a></h3>
+<h3><a name="navigation-name" class="no-link">BOT By GANGSTAR Bot™</a></h3>
 <ul>
 <li>
 Welcome Back : <font color="red">'.$nm.'</font></li>
@@ -258,144 +273,141 @@ $this->membEr();
 
 public function atas(){
 $hari=array(1=>
-        "",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
 );
 
 $bulan=array(1=>
-"",
+"January",
+  "February",
+    "March",
+     "April",
+       "May",
+         "June",
+           "July",
+             "August",
+               "September",
+          "October",
+     "November",
+"Desember"
 );
 
+$hr=$hari[gmdate('N',time()+60*60*7)];
+$tgl=gmdate('j',time()+60*60*7);
+$bln=
+$bulan[gmdate('n',time()+60*60
+*7)];
+$thn=gmdate('Y',time()+60*60*7);
+$jam=gmdate('H',time()+60*60*7);
+
 echo'
+<center>
+
 <div id="header">
 <h1 class="heading">
+<center><img src="techimg.gif"/></center>
 </h1>
 <h2 class="description">
 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
-'.$jam.'</h2></div>';
-} 
-
+'.$jam.'</h2></center></div>';
+}
 public function home(){
 echo'
+
 <div id="content">
 <div class="post">
 <div class="post-meta">
-<div id="content">
-<div class="post">
-<div class="post-meta">
-<h3 align="center"><font face="Orbitron" size="7" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em blue, 0pt 2pt 0.9em Yellow;"><b>   •]••´º´•» LUCKE SINGH «•´º´••[•   </b></font></h2>
 <h2 class="title">
-
-<center></head>
-    <body>
-        <div id="main">
-            <div id="content">
-                <div class="header">
-<span class="mfss fcg">
-<h3>•._.••´¯``•.¸¸.•` <mark><u>Feel Karo Haтers</u></mark> `•.¸¸.•´´¯`••._.•</h3> 
-</div><marquee behavior="alternate"<h6>pυnjaв-вoттer-тeaм </h6></marquee>
-<center><a href="http://feel-bot.tk/" target="blank">• New Bot •</a></center>
-<center><a href="http://xxx-0.ml/" target="blank">• New Bot 2 •</a></center>
-<center><a href="http://wap4dollar.com/ad/pops/?id=a28e6fl34q" target="blank">• New Bot 3 •</a></center>
+Administrator Websites
+</h2>
+By <font color="sky blue">PAKFUN,HECK,IN™</font>
 </div>
 
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-       x[i].style.display = "none";  
-    }
-    myIndex++;
-    if (myIndex > x.length) {myIndex = 1}    
-    x[myIndex-1].style.display = "block";  
-    setTimeout(carousel, 9000);    
-}
-</script>
-
-</body>
-</html> 
-
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function currentDiv(n) {
-  showDivs(slideIndex = n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length} ;
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-     dots[i].className = dots[i].className.replace(" w3-white", "");
-  }
-  x[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " w3-white";
-}
-</script>
-
-</body>
-</html> 
-
-</span>
-</div>
+<div class="post-content">
+<a href="http://m.facebook.com/muhammadhusnain01"><img src="https://graph.facebook.com/muhammadhusnain01/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="MSaleem" class="thumbnail"/></a>
 <span>
 <br>
+Roɓot Cʀɘʌtɘɗ Bƴ:<b><a href="http://fb.com/muhammadhusnain01"><font color="sky blue">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ
+ ♥</font></a></b>ŋʌɩŋ
+<br>
+How To Mʌĸɘ Yoʋʀ Owŋ Pɘʀsoŋʌɭ Bot : <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue">Cɭɩcĸ Hɘʀɘ</font></a><br>
+Dowŋɭoʌɗ Scʀɩpt <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue">♥Cɭɩcĸ Hɘʀɘ♥</font></a><br>
+
 </span>
 </div>
+
 <div class="post-meta2">
-</div></div></div>';
+<center><iframe src="//www.facebook.com/plugins/follow?href=https://www.facebook.com/Fmuhammadhusnain01&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe></center>
+
+</div></div></div>
+';
 }
 
 public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<ul>
-<center><a href="https://goo.gl/CvenbL" target="blank">• allow perмιѕѕιon •</a></center>
-<center><a href="https://goo.gl/EwUiuu" target="blank">• ησω gεт үσυя тσкεη •</a></center><font face="Orbitron" size="2" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em yellow;">
+</head>
+    <body>
+        <div id="main">
+            <div id="content">
+                <div class="header">
+<span class="mfss fcg">
+<center>
+<h2><font size="15" color="white">❤</font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>—(••÷[ ᴅᴇᴠᴇʟᴏᴘᴇʀ ]÷••—</b></font><font size="15" color="white">❤</font></h2>
+</center>
+<marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
+<b>
+(<font size="9" color="red">♥</font><a class="sec" href="http://fb.com/muhammadhusnain01"><font color="sky blue" size="9">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ</font></a></b> <font size="9" color="red">♥</font>)</marquee><br />
+<marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="3" width="100%">
+<b>
+<font size="7" color="red">(</font><a class="sec" href=""><font color="sky blue" size="7"></font></a></b><font size="7" color="red">)</font></marquee><br />
+</span>
+</div>
+<div style="border-top: 1px #ff0066 solid; margin-top: 8px;"></div></br>
+<h3><a name="navigation-name" class="no-link"><font color="pink"size="5"><i>GANGSTAR BOT TEAM</font></a></h3>
 
+<ul>
+<li><a target="_blank" href="https://www.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.htcsense.com%2Fauth%2Ffacebook%2Fcallbacks?-------------------%3ECOPY_THE_TOKEN-----%3E&scope=user_videos,friends_photos,friends_videos,publish_actions,user_photos,friends_photos,user_activities,user_likes,user_status,friends_status,publish_stream,read_stream,status_update&response_type=token&client_id=41158896424&_rdr"><font color="green">➲ </font>Allow Apps To Install HTC Token</a></li>
+<li><a target="_blank" href="https://developers.facebook.com/tools/debug/accesstoken/?app_id=41158896424"><font color="green">➲ </font> Get Token Debugger</a>
+</li>
+<li><font color="pink"size="4"><i><font color="green">➫ </font>IF BOT NOT Working Then Contact Me On Facebook <a href="http://fb.com/muhammadhusnain01">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ♥</a></font></li>
 </ul></div>
 
+<div style="border-top: 1px #ff0066 solid; margin-top: 10px;"></div></br>
+<center><font color="sky blue" size="5">Please Submit Your Access Token Here</font></center>
 
 <div id="top-content">
 <div id="search-form">
 
 <form action="index.php" method="post"><input class="inp-text" type="text" style="height:28px;" name="token"> <input class="inp-btn" type="submit" style="height:28px;" value=" SUBMIT"></form></div></div></div>';
-
 $this->membEr();
 }
-
 public function membEr(){
-        if(!is_dir('cokis')){
-        mkdir('cokis');
+if(!is_dir('cokis')){
+mkdir('cokis');
 }
 $up=opendir('cokis');
 while($use=readdir($up)){
 if($use != '.' && $use != '..'){
-        $user[]=$use;}
-        }
+$user[]=$use;}
+}
 
 echo'
+<div align=center>
+<a href="http://pakfun.heck.in" target="_blank" ><img src="moresites.jpg"/></a?
+</div>
 <div id="footer">
-Users Robot : <font color="lime">'.count($user).'</font>
+User robot : <font color="red">'.count($user).'</font>
 <br>
-Script Bot &copy; 2016<br>
+Script Bot &copy; 2016-17<br>
+Powered by :<font color="red"><a target="_blank" href="pakfun.heck.in">PAKFUN™</a></font><br>
+Script Modified By : <a target="_blank" href="http://www.facebook.com/muhammadhusnain01">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ</a>
 </div>';
 }
 
@@ -406,71 +418,71 @@ header('Location: https://m.facebook.com/dialog/oauth?client_id='.$h.'&redirect_
 
 }
 if(isset($_SESSION[key])){
-        $a=$_SESSION[key];
-        $ai=explode('_',$a);
-        $a=$ai[0];
+$a=$_SESSION[key];
+$ai=explode('_',$a);
+$a=$ai[0];
 if($_POST[logout]){
-        $ax=$_POST[logout];
-        $bot->lOgbot($ax);
+$ax=$_POST[logout];
+$bot->lOgbot($ax);
 }else{
 $b=$bot->getUrl('/me',$a,array(
 'fields' => 'id,name',
 ));
 if($b[id]){
 if($_POST[likes]){
-        $as=$_POST[likes];
-        $bs=$_POST[emot];
-        $bx=$_POST[target];
-        $cs=$_POST[opsi];
-        $tx=$_POST[text];
+$as=$_POST[likes];
+$bs=$_POST[emot];
+$bx=$_POST[target];
+$cs=$_POST[opsi];
+$tx=$_POST[text];
 if($cs=='text'){
-        unlink('cokis/'.$b[id]);
+unlink('cokis/'.$b[id]);
 $bot->savEd($a,$b[id],$as,$bs,$bx,'off');
-        }else{
-        if($tx){
+}else{
+if($tx){
 $bot->savEd($a,$b[id],$as,$bs,$bx,$cs,'x',$tx);
-        }else{
+}else{
 $bot->savEd($a,$b[id],$as,$bs,$bx,$cs);}}
 }
-        $bot->atas();
-        $bot->home();
+$bot->atas();
+$bot->home();
 $bot->cek($a,$b[id],$b[name]);
 }else{
 echo '<script type="text/javascript">alert("INFO: Session Token Expired")</script>';
-        unset($_SESSION[key]);
-        unlink('cokis/'.$ai[1]);
+unset($_SESSION[key]);
+unlink('cokis/'.$ai[1]);
 $bot->atas();
 $bot->home();
-        $bot->bwh();}}
-        }else{
+$bot->bwh();}}
+}else{
 if($_POST[token]){
-        $a=$_POST[token];
+$a=$_POST[token];
 if(preg_match('/token/',$a)){
 $tok=substr($a,strpos($a,'token=')+6,(strpos($a,'&')-(strpos($a,'token=')+6)));
-        }else{
-        $cut=explode('&',$a);
+}else{
+$cut=explode('&',$a);
 $tok=$cut[0];
 }
 $b=$bot->getUrl('/me',$tok,array(
-        'fields' => 'id,name',
+'fields' => 'id,name',
 ));
 if($b[id]){
 $bot->savEd($tok,$b[id],'on','on','on','on','null');
-        $bot->atas();
-        $bot->home();
+$bot->atas();
+$bot->home();
 $bot->cek($tok,$b[id],$b[name]);
 }else{
-echo '<script type="text/javascript">alert("INFO: Jaan Token fir se lo")</script>';
-        $bot->atas();
-        $bot->home();
-        $bot->bwh();}
+echo '<script type="text/javascript">alert("INFO: Token invalid")</script>';
+$bot->atas();
+$bot->home();
+$bot->bwh();}
 }else{
 if($_GET[token]){
-        $a=$_GET[token];
-        $bot->toXen($a);
+$a=$_GET[token];
+$bot->toXen($a);
 }else{
-        $bot->atas();
-        $bot->home();
-        $bot->bwh();}}
+$bot->atas();
+$bot->home();
+$bot->bwh();}}
 }
 ?>
