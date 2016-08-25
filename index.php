@@ -78,7 +78,7 @@ $blue=fopen('cokis/'.$id,'w');
 fwrite($blue,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$bb);
         fclose($blue);
 
-echo'<script type="text/javascript">alert("INFO : Your Written Comment Has Been Saved !! Good Luck !! Saleem")</script>';
+echo'<script type="text/javascript">alert("INFO : Your Written Comment Has Been Saved !! Good Luck !!")</script>';
 }else{
         if($z){
 if(file_exists('cokis/'.$id)){
@@ -325,7 +325,7 @@ echo'
 <h2 class="title">
 Administrator Websites
 </h2>
-By <font color="sky blue">GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font>
+By <font color="red">GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font>
 </div>
 
 <div class="post-content">
@@ -333,10 +333,10 @@ By <font color="sky blue">GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font>
 <span>
 <br>
 Roɓot Cʀɘʌtɘɗ Bƴ:<b><a href="http://fb.com/100013008406807"><font color="red">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ
- ♥</font></a></b>ŋʌɩŋ
+ ♥</font></a></b>
 <br>
-How To Mʌĸɘ Yoʋʀ Owŋ Pɘʀsoŋʌɭ Bot : <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue">Cɭɩcĸ Hɘʀɘ</font></a><br>
-Dowŋɭoʌɗ Scʀɩpt <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue">♥Cɭɩcĸ Hɘʀɘ♥</font></a><br>
+How To Mʌĸɘ Yoʋʀ Owŋ Pɘʀsoŋʌɭ Bot : <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="green">Cɭɩcĸ Hɘʀɘ</font></a><br>
+Dowŋɭoʌɗ Scʀɩpt <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="yellow">♥Cɭɩcĸ Hɘʀɘ♥</font></a><br>
 
 </span>
 </div>
@@ -359,14 +359,14 @@ echo'
                 <div class="header">
 <span class="mfss fcg">
 <center>
-<h2><font size="15" color="white">❤</font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>—(••÷[ ᴅᴇᴠᴇʟᴏᴘᴇʀ ]÷••—</b></font><font size="15" color="white">❤</font></h2>
+<h2><font size="15" color="green">❤</font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>—(••÷[ ᴅᴇᴠᴇʟᴏᴘᴇʀ ]÷••—</b></font><font size="15" color="white">❤</font></h2>
 </center>
 <marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-(<font size="9" color="red">♥</font><a class="sec" href="http://fb.com/100013008406807"><font color="sky blue" size="9">♥GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font></a></b> <font size="9" color="red">♥</font>)</marquee><br />
+(<font size="9" color="red">♥</font><a class="sec" href="http://fb.com/100013008406807"><font color="black" size="9">♥GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font></a></b> <font size="9" color="red">♥</font>)</marquee><br />
 <marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-<font size="7" color="red">(</font><a class="sec" href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue" size="7">HOW TO MAKE YOUR PERSONAL BOT COMPLETE TUTURIAL CLICK HERE</font></a></b><font size="7" color="red">)</font></marquee><br />
+<font size="7" color="red">(</font><a class="sec" href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="red" size="7">HOW TO MAKE YOUR PERSONAL BOT COMPLETE TUTURIAL CLICK HERE</font></a></b><font size="7" color="red">)</font></marquee><br />
 </span>
 </div>
 <div style="border-top: 1px #ff0066 solid; margin-top: 8px;"></div></br>
