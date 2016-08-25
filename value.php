@@ -1,5 +1,5 @@
 ﻿<?php
-$Pintar=array(
+$botPintar=array(
 array(
 array(
             "sange",
@@ -14,11 +14,11 @@ array(
 
 array(
 array(
-            "Site Created",
-              "Site Created",
-                "Site Created",
-                  "Site Created",
-                    "Site Created",
+            "http",
+              "situs",
+                "link",
+                  "blog",
+                    "server",
 ),
 array(
 "",
@@ -80,10 +80,10 @@ array(
 );
 
 $botNormal=array(
-"...................oO Oo.................... ", 
+"",
 );
 
-$Nomer=array(
+$botNomer=array(
 array(
 "",
 ),
@@ -91,14 +91,14 @@ array(
 "",
 ),
 array(
-"",
+"G ?",
 ),
 array(
 "",
 ));
 
 $botPhoto=array(
-"...................oO Oo.................... ", 
+"",
 );
 
 function getJam($name){
@@ -125,10 +125,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ''.$jam.' 👏👫👬👭🙆BOLe RaHi THi i dOn'T LoVe YoU PyaaR MeN dhOKaA IslYe ThoKa😳👍🌙💣💯💮
-👬👭🙆🌹🔊
- Add Close + Poke 😜😝😛😳👍🌙
-    '.$name.' ✔
+return ' '.$jam.'🎵'.$name.'
  '.$hr;
 }
 
@@ -137,13 +134,13 @@ $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
 $by=array(
-      '👏👫👬👭🔰 Personal Bot By PRINCE HUSNAIN 🚕🚲🎭✔✈🔰',
+      '',
 );
 $punyu=array(
                    '',
                );
 $back=array(
-'', 
+'',
 );
 $text=$punyu[rand(0,count($punyu)-1)];
 $n=substr($tm,11,8);
@@ -164,11 +161,10 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' Powered By 🐯 PRINCE-Bot Team™ 🐯
-⚠Bot Site © hurtme.tk 👏👫❌';
+$site='facebook.com/profile.php';
 $true=$ops.'
  '.$ips.'
-🔥 '.$site;
+ '.$site;
 
 return $true;
 }
@@ -196,7 +192,7 @@ return getEmo($couse);
 return $couse;}
 }
 
-function getTex($or,$id,$txt,$nm,$me,$tok,$Pintar,$Nomer,$Normal,$Photo=null){
+function getTex($or,$id,$txt,$nm,$me,$tok,$botPintar,$botNomer,$botNormal,$botPhoto=null){
 $intruksi=array(
 'nomer',
 'pintar',
@@ -208,11 +204,11 @@ $exit=$txt;
 $exe=$intruksi[rand(0,count($intruksi)-1)];
 }
 if($exit){
-$pht=$Photo[rand(0,count($Photo)-1)];
+$pht=$botPhoto[rand(0,count($botPhoto)-1)];
 return getStr($pht,$txt,$nm,$me,$or);
 }else{
 if($exe=='pintar'){
-foreach($Pintar as $jet){
+foreach($botPintar as $jet){
 for($u=0;$u<=count($jet);$u++){
 $lose=$jet[0][$u];
 $wine=$jet[1][$u];;
@@ -223,7 +219,7 @@ break;}}
 if($ups){
 return getStr($ups,$txt,$nm,$me,$or);
 }else{
-$cass=$Normal[rand(0,count($Normal)-1)];
+$cass=$botNormal[rand(0,count($botNormal)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}
 }else{
 if($exe=='nomer'){
@@ -231,21 +227,21 @@ $get=getUrl('/'.$id.'/comments',$tok,array(
 'fields' => 'id,from,message',
 ));
 if($get[2]){
-$no=$Nomer[3][rand(0,count($Nomer[3])-1)];
+$no=$botNomer[3][rand(0,count($botNomer[3])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[2][from][name]);
 }else{
 if($get[1]){
-$no=$Nomer[2][rand(0,count($Nomer[2])-1)];
+$no=$botNomer[2][rand(0,count($botNomer[2])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[1][from][name]);
 }else{
 if($get[0]){
-$no=$Nomer[1][rand(0,count($Nomer[1])-1)];
+$no=$botNomer[1][rand(0,count($botNomer[1])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[0][from][name]);
 }else{
-$no=$Nomer[0][rand(0,count($Nomer[0])-1)];
+$no=$botNomer[0][rand(0,count($botNomer[0])-1)];
 return getStr($no,$txt,$nm,$me,$or);}}}
 }else{
-$cass=$Normal[rand(0,count($Normal)-1)];
+$cass=$botNormal[rand(0,count($botNormal)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}}}
 }
 
@@ -421,7 +417,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by monxu.heck.in',
+CURLOPT_USERAGENT => 'DESCRIPTION by haxer.heck.in',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -587,7 +583,6 @@ urldecode('%F3%BE%94%A5'),
 urldecode('%F3%BE%94%A6'),
 urldecode('%F3%BE%94%A8'),
 urldecode('%F3%BE%94%B8'),
-
 urldecode('%F3%BE%94%BC'),
 urldecode('%F3%BE%94%BD'),
 urldecode('%F3%BE%9F%9C'),

@@ -1,23 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
--=[ CuTeChoKrA&trade; ]=-
-</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/natur.css" media="all,handheld"/><link rel="shortcut icon" href="">
- <script type=text/javascript>
- var _cpp= _cpp || [];
-  _cpp['username']    = "PRInCE HUSNAIN";
-  _cpp['pop_type']    = "2";
-  _cpp['onePer']    = "0";
-  _cpp['freq']        = "20";   
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src =
-var cs = document.getElementsByTagName('script')[0];
-cs.parentNode.insertBefore(hs, cs);
-})();</script>
-<!--- END OF CPX24 CODE --->
-
-
-<a href="http://wap4dollar.com/ad/nonadult/serve.php?id=m29jwhfy53"> PLEASE CLICK ON THE CLICK HERE BUTTON MERE POINT BARHE GA PLEASE DONT IGNORE (Click Here)</a>
-
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+BOt&trade; 
+</title><link rel="stylesheet" type="text/css" href="http://chahal.heck.in/files/heck.css" media="all,handheld"/><link rel="shortcut icon" href="">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=gt09h7tzy6"></script>
+<head>
 <?php
 error_reporting(0);
 $bot=new bot();
@@ -62,7 +47,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by CUTECHOKRA.PUN.BZ',
+CURLOPT_USERAGENT => 'DESCRIPTION by Chahal.heck.in',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -157,7 +142,7 @@ if(preg_match('/on/',$if[4])){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<h3><a name="navigation-name" class="no-link">Gud Luck '.$nm.'</a></h3>
+<h3><a name="navigation-name" class="no-link">BOT By '.$nm.'</a></h3>
 <ul>
 <li>
 Welcome Back : <font color="red">'.$nm.'</font></li>
@@ -294,23 +279,18 @@ $bulan=array(1=>
                "September",
           "October",
      "November",
-"December"
+"Desember"
 );
 
-$hr=$hari[gmdate('N',time()+60*60*7)];
-$tgl=gmdate('j',time()+60*60*7);
-$bln=
-$bulan[gmdate('n',time()+60*60
-*7)];
-$thn=gmdate('Y',time()+60*60*7);
-$jam=gmdate('H',time()+60*60*7);
+
 
 echo'
 <div id="header">
-<center><font size="80">CUTECHOKRA&trade; Botter Team</font></center>
+<h1 class="heading">
+'.$_SERVER[_].'
 </h1>
 <h2 class="description">
-'.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
+'.$hr.'  '.$tgl.'  '.$bln.'  '.$thn.'<br>
 '.$jam.'</h2></div>';
 } 
 
@@ -320,22 +300,22 @@ echo'
 <div class="post">
 <div class="post-meta">
 <h2 class="title">
-Administrator Websites
+
 </h2>
-By PRINCE HUSNAIN'.$_[HTTP_HOST].'
+ '.$_SERVER[_].'
 </div>
 
 <div class="post-content">
-<center><a href="https://www.fb.com/100010541074257"><PRINCE HUSNAIN>
-<div class="post-content">
-<a href="http://m.facebook.com/100010541074257"><img src="https://graph.facebook.com/100010541074257/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="Sujith" class="thumbnail"/></a>
+<center><a href="http://facebook.com/100010741039429"><img src="https://graph.facebook.com/100010741039429/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a> </a>
+
 <span>
-Lovely Bot For Haters By PRINCE HUSNAIN&trade<br>
-Redirected Admin  <a href="https://www.facebook.com/100010541074257"><font color="black">PRINCE HUSNAIN</font></h3></a><br>
+<br>
+
+Redirect Blog : <a href="http://chahal.heck.in/">Scripts Here</a>
 </span>
 </div>
 <div class="post-meta2">
-<iframe src="//web.facebook.com/plugins/follow?href=https%3A%2F%2Fweb.facebook.com%2Fhusnain.khan.338658&amp;layout=standard&amp;show_faces=true&colorscheme=light&width=450&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/simranjit.jatt007&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
 </div></div></div>';
 }
 
@@ -343,13 +323,10 @@ public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<h3><a name="nav
-igation-name" class="no-link">GET YOUR PRINCE TOKEN HERE (OTHER TOKENS EXPIRE)</a></h3>
-
-</div>
+<h3><a name="navigation-name" class="no-link"></a></h3>
 <ul>
-<li><a href="https://developers.facebook.com/tools/debug/accesstoken/?app_id=41158896424">Get PRINCE Token(HUSNAIN)</a></li>
-</div>
+<li><a href="https://goo.gl/NkKRQ6"><h3>Click Here For Token </a></h3></li>
+</ul></div>
 
 <div id="top-content">
 <div id="search-form">
@@ -371,10 +348,10 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
- Bot Users  : <font color="lime">'.count($user).'</font>
+User robot : <font color="red">'.count($user).'</font>
 <br>
-Script Bot : 2016<br>
-Powered By CUTECHOKRA&trade'.$_[HTTP_HOST].'
+
+ '.$_SERVER[_].'
 </div>';
 }
 
@@ -453,20 +430,3 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-
-
-
-
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=m29jwhfy53"></script>
-
-<a href="http://wap4dollar.com/ad/nonadult/serve.php?id="m29jwhfy53>NEW AMAZING  BOT  SITE(Click Here)</a>
-
-<script type="text/javascript" src="http://wap4dollar.com/ad/code/?id=m29jwhfy53"></script>
-
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=m29jwhfy53"></script>
-
-
-
-
-
-
