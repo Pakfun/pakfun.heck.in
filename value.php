@@ -266,7 +266,7 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return '🏨 '.$jam.' 😽 '.$name.'
-🚥 Bot Sɩtɘ🚏 BOTTERX.HEROKUAPPS.com 🚥
+🚥 Bot Sɩtɘ🚏 BOTTERX.HEROKUAPP.com 🚥
 🏢 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn;
 }
 
