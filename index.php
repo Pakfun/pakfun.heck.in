@@ -359,7 +359,7 @@ echo'
                 <div class="header">
 <span class="mfss fcg">
 <center>
-<h2><font size="15" color="green">❤</font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>—(••÷[ ᴅᴇᴠᴇʟᴏᴘᴇʀ ]÷••—</b></font><font size="15" color="white">❤</font></h2>
+<h2><font size="15" color="green"></font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>—(••÷[ ᴅᴇᴠᴇʟᴏᴘᴇʀ ]÷••—</b></font><font size="15" color="white">❤</font></h2>
 </center>
 <marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
 <b>
