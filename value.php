@@ -266,7 +266,7 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return '🏨 '.$jam.' 😽 '.$name.'
-🚥 Bot Sɩtɘ🚏 husnain-bot.chilhost.com 🚥
+🚥 Bot Sɩtɘ🚏 BOTTERX.HEROKUAPPS.com 🚥
 🏢 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn;
 }
 
@@ -317,10 +317,10 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='🎏 |ᴈᴏʀ ᴘᴇʀᴤᴏɴᴀʟ ʙᴏᴛ ᴄᴏɴᴛᴀᴄᴛ|♥
+$site='🎏AUTO Robot created by Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ ♥
 .↷👇
 .↷👇
-    🎈[➬ ҒѦСЄВООК.СОМ/muhammadhusnain01 ]🎈';
+    🎈[➬  Bot Powɘʀɘɗ Bƴ-נ► GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™ ]🎈';
 $true=$ops.'
 🏨 '.$eps.'
 🏥 '.$ups.'

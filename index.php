@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-♥Personal Bot Of Muhammad HUSNAIN♥
+♥[̲̅g̲̅][̲̅a̲̅][̲̅n̲̅][̲̅g̲̅][̲̅s̲̅][̲̅t̲̅][̲̅a̲̅][̲̅r̲̅] [̲̅b̲̅][̲̅o̲̅][̲̅t̲̅] [̲̅t̲̅][̲̅e̲̅][̲̅a̲̅][̲̅m̲̅]♥
 </title>
 <link rel="stylesheet" type="text/css" href="msbot.css" media="all,handheld"/>
 <link rel="shortcut icon" a href="https://www.facebookbrand.com/img/fb-art.jpg">
@@ -62,7 +62,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION BY MUHAMMAD HUSNAIN',
+CURLOPT_USERAGENT => 'DESCRIPTION BY pakfun.heck.in',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -157,7 +157,7 @@ if(preg_match('/on/',$if[4])){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<h3><a name="navigation-name" class="no-link">BOT By GANGSTAR Bot™</a></h3>
+<h3><a name="navigation-name" class="no-link">GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</a></h3>
 <ul>
 <li>
 Welcome Back : <font color="red">'.$nm.'</font></li>
@@ -325,14 +325,14 @@ echo'
 <h2 class="title">
 Administrator Websites
 </h2>
-By <font color="sky blue">PAKFUN,HECK,IN™</font>
+By <font color="sky blue">GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font>
 </div>
 
 <div class="post-content">
-<a href="http://m.facebook.com/muhammadhusnain01"><img src="https://graph.facebook.com/muhammadhusnain01/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="MSaleem" class="thumbnail"/></a>
+<a href="http://m.facebook.com/100013008406807"><img src="https://graph.facebook.com/100013008406807/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="MSaleem" class="thumbnail"/></a>
 <span>
 <br>
-Roɓot Cʀɘʌtɘɗ Bƴ:<b><a href="http://fb.com/muhammadhusnain01"><font color="sky blue">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ
+Roɓot Cʀɘʌtɘɗ Bƴ:<b><a href="http://fb.com/100013008406807"><font color="red">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ
  ♥</font></a></b>ŋʌɩŋ
 <br>
 How To Mʌĸɘ Yoʋʀ Owŋ Pɘʀsoŋʌɭ Bot : <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue">Cɭɩcĸ Hɘʀɘ</font></a><br>
@@ -342,7 +342,7 @@ Dowŋɭoʌɗ Scʀɩpt <a href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"
 </div>
 
 <div class="post-meta2">
-<center><iframe src="//www.facebook.com/plugins/follow?href=https://www.facebook.com/Fmuhammadhusnain01&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe></center>
+<center><iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fmuhammadhusnain01&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe></center>
 
 </div></div></div>
 ';
@@ -363,10 +363,10 @@ echo'
 </center>
 <marquee behavior="scroll" direction="right" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-(<font size="9" color="red">♥</font><a class="sec" href="http://fb.com/muhammadhusnain01"><font color="sky blue" size="9">♥Mʋʜʌɱɱʌɗ HʋSŋʌɩŋ</font></a></b> <font size="9" color="red">♥</font>)</marquee><br />
+(<font size="9" color="red">♥</font><a class="sec" href="http://fb.com/100013008406807"><font color="sky blue" size="9">♥GᗩᑎGᔕTᗩᖇ ᗷOT TEᗩᗰ™</font></a></b> <font size="9" color="red">♥</font>)</marquee><br />
 <marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="3" width="100%">
 <b>
-<font size="7" color="red">(</font><a class="sec" href=""><font color="sky blue" size="7"></font></a></b><font size="7" color="red">)</font></marquee><br />
+<font size="7" color="red">(</font><a class="sec" href="http://wap4dollar.com/ad/serve.php?id=m29jwhfy53"><font color="sky blue" size="7">HOW TO MAKE YOUR PERSONAL BOT COMPLETE TUTURIAL CLICK HERE</font></a></b><font size="7" color="red">)</font></marquee><br />
 </span>
 </div>
 <div style="border-top: 1px #ff0066 solid; margin-top: 8px;"></div></br>
